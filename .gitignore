@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+/data/*.json
+/data/models/
+/data/voices/
+/tasks.json
+/inquiries.json
